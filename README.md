@@ -9,3 +9,11 @@ I'm Foysal, a passionate full stack developer from Bangladesh.
 Currently working on a travel app using React and MongoDB.  
 I enjoy creating efficient, user-friendly web applications.  
 I love building apps that solve real-world problems.
+
+
+### 🔧 Current Activities
+
+- Working on a **tourism website** project  
+- Using **React.js** for dynamic UI development  
+- Building with **JavaScript**, **Next.js**, **HTML**, and **Tailwind CSS**  
+- Handling backend and data with **MongoDB**
