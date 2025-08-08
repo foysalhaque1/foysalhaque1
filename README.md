@@ -1,1 +1,1 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://ibb.co.com/7tgc7KJX" alt="Mokkapps GitHub README header image">
