@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://i.ibb.co/r2bPnHGm/Black-Red-Modern-Personal-Linked-In-Banner.png)
+![LinkedIn Banner](https://i.ibb.co.com/CKJxwj5D/Black-Red-Modern-Personal-Linked-In-Banner-1.png)
 
 - 🏦 I'm S.M.Foysal Haque. A Frontend Webdeveloper
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
