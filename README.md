@@ -51,7 +51,8 @@ I love building apps that solve real-world problems.
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foysalhaque1&theme=dark)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=foysalhaque1&theme=dark" alt="GitHub Streak" />
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
