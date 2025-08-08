@@ -51,7 +51,8 @@ I love building apps that solve real-world problems.
 
 
 
-<img src="https://streak-stats.demolab.com/?user=foysalhaque1&theme=dark" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=foysalhaque1&theme=dark)
+
 
 
 <!--START_SECTION:waka-->
