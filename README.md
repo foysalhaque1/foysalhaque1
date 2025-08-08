@@ -43,6 +43,9 @@ I'm Foysal, a passionate full stack developer from Bangladesh.Currently working 
 
 ![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=foysalhaque1&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
+📊 470+ contributions in the last year
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalhaque1&layout=compact&text_color=daf7dc&bg_color=151515&hide=php,dart,c,cpp,swift,scss,java,python,shell,tsql)](https://github.com/anuraghazra/github-readme-stats)
 
 
