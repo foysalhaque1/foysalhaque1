@@ -1,6 +1,6 @@
 <img src="https://ibb.co/7tgc7KJX" alt="Mokkapps GitHub README header image">
 
-- 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
+- 🏦 I'm S.M.Foysal Haque. A Frontend Webdeveloper
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
