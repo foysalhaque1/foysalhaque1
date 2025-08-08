@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/r2bPnHGm/Black-Red-Modern-Personal-Linked-In-Banner.png" alt="Mokkapps GitHub README header image">
+![LinkedIn Banner](https://i.ibb.co/r2bPnHGm/Black-Red-Modern-Personal-Linked-In-Banner.png)
 
 - 🏦 I'm S.M.Foysal Haque. A Frontend Webdeveloper
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
