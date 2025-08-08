@@ -35,3 +35,9 @@ I love building apps that solve real-world problems.
 #### Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+  <br/>
+  <p align="left">
+<a href="https://x.com/foysalhaquemist" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="www.linkedin.com/in/foysal-haque-6a5484169" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
