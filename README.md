@@ -2,10 +2,10 @@
 
 - 🏦 I'm S.M.Foysal Haque. A Frontend Webdeveloper
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+
+## 👋 About Me
+
+I'm Foysal, a passionate full stack developer from Bangladesh.  
+Currently working on a travel app using React and MongoDB.  
+I enjoy creating efficient, user-friendly web applications.  
+I love building apps that solve real-world problems.
